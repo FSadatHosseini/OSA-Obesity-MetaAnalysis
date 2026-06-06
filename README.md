@@ -48,6 +48,7 @@
 ```
 OSA-Obesity-MetaAnalysis/
 ├── README.md
+├── LICENSE
 ├── .gitignore
 ├── report/
 │   └── meta_analysis_report.Rmd        # Full reproducible analysis report
