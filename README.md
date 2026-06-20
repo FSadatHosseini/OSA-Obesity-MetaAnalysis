@@ -1,7 +1,7 @@
 # Systematic Review and Meta-Analysis: Sleep Apnea Severity in Obese vs. Non-obese Children and Adolescents
 
 > Research code for: **"Comparison of Sleep Apnea Severity in Obese and Non-Obese Children and Adolescents: A Systematic Review and Meta-Analysis"**  
-> *Manuscript in preparation*
+> *Manuscript submitted; under review*
 
 ---
 
