@@ -22,9 +22,9 @@
 | Question | Finding |
 |----------|---------|
 | How different is OSA severity between obese and non-obese children? | Pooled SMD = **0.41** (95% CI: 0.23–0.58, p < 0.001) |
-| How consistent are findings across studies? | I² = **84.1%** — considerable heterogeneity |
-| Is there publication bias? | Egger's test (t = 1.1, p = 0.288) — no strong evidence of bias |
-| Are results robust? | Leave-one-out sensitivity analysis — results stable across all iterations |
+| How consistent are findings across studies? | I² = **84.1%**, considerable heterogeneity |
+| Is there publication bias? | Egger's test (t = 1.1, p = 0.288), no strong evidence of bias |
+| Are results robust? | Leave-one-out sensitivity analysis, results stable across all iterations |
 
 ---
 
