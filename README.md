@@ -32,9 +32,9 @@
 
 | Characteristic | Value |
 |----------------|-------|
-| Databases searched | 6 (PubMed, Scopus, Web of Science, ...) |
+| Databases searched | 4 (PubMed, Scopus, Web of Science, ScienceDirect) |
 | Publication period | 2000–2025 |
-| Initial articles screened | 178 |
+| Initial articles screened | 255 |
 | Studies included | 16 |
 | Total participants | 4,239 |
 | Age range | 1–18 years |
