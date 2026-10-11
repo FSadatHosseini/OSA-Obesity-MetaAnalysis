@@ -5,7 +5,7 @@
 
 ---
 
-## 📄 Abstract
+## Abstract
 
 **Background:** Obstructive sleep apnea (OSA) is a common sleep-disordered breathing condition in children and adolescents, characterized by respiratory pauses and decreased blood oxygen levels. The rising prevalence of obesity in this age group has established it as a major risk factor for OSA severity. Despite its clinical significance, previous studies comparing OSA severity between obese and non-obese children have yielded conflicting results.
 
